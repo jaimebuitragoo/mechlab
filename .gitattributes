@@ -15,3 +15,5 @@
 *.pdf -crlf -diff -merge
 *.jpg -crlf -diff -merge
 *.png -crlf -diff -merge
+*.ai -crlf -diff -merge
+*.eps -crlf -diff -merge
